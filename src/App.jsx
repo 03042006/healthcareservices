@@ -1,4 +1,4 @@
-import Services from './components/services'
+import Services from '/src/components/Services'
 import './App.css'
 
 function App() {
